@@ -1,0 +1,16 @@
+name = "PVT_props"
+uuid = "ece7fb6a-ee0e-4b35-899b-b76da84ecb77"
+authors = ["Jose Carlos Reyes"]
+version = "1.0.0-DEV"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
