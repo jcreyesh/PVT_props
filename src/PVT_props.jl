@@ -1,5 +1,5 @@
 
-module PVT_propsj
+module PVT_props
 
 # importing libraries
 using DataFrames
